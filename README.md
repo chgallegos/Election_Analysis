@@ -26,7 +26,7 @@ The purpose of this election audit analysis was to accurately process voting dat
 
     The votes per canditate were the following, Charles Casper Stockham: 23.0% (85,213) Diana DeGette: 73.8% (272,892) Raymon Anthony Doane: 3.1% (11,606)
 
-    ![Screenshot](https://github.com/chgallegos/election_analysis/blob/main/Resources/Candidate_breakdown.pn)
+    ![Screenshot](https://github.com/chgallegos/election_analysis/blob/main/Resources/Candidate_breakdown.png)
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
